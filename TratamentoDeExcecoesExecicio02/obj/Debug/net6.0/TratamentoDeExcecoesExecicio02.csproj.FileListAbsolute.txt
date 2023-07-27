@@ -1,0 +1,15 @@
+C:\Users\eduardoalves\source\repos\TratamentoDeExcecoesExecicio02\TratamentoDeExcecoesExecicio02\bin\Debug\net6.0\TratamentoDeExcecoesExecicio02.exe
+C:\Users\eduardoalves\source\repos\TratamentoDeExcecoesExecicio02\TratamentoDeExcecoesExecicio02\bin\Debug\net6.0\TratamentoDeExcecoesExecicio02.deps.json
+C:\Users\eduardoalves\source\repos\TratamentoDeExcecoesExecicio02\TratamentoDeExcecoesExecicio02\bin\Debug\net6.0\TratamentoDeExcecoesExecicio02.runtimeconfig.json
+C:\Users\eduardoalves\source\repos\TratamentoDeExcecoesExecicio02\TratamentoDeExcecoesExecicio02\bin\Debug\net6.0\TratamentoDeExcecoesExecicio02.dll
+C:\Users\eduardoalves\source\repos\TratamentoDeExcecoesExecicio02\TratamentoDeExcecoesExecicio02\bin\Debug\net6.0\TratamentoDeExcecoesExecicio02.pdb
+C:\Users\eduardoalves\source\repos\TratamentoDeExcecoesExecicio02\TratamentoDeExcecoesExecicio02\obj\Debug\net6.0\TratamentoDeExcecoesExecicio02.csproj.AssemblyReference.cache
+C:\Users\eduardoalves\source\repos\TratamentoDeExcecoesExecicio02\TratamentoDeExcecoesExecicio02\obj\Debug\net6.0\TratamentoDeExcecoesExecicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardoalves\source\repos\TratamentoDeExcecoesExecicio02\TratamentoDeExcecoesExecicio02\obj\Debug\net6.0\TratamentoDeExcecoesExecicio02.AssemblyInfoInputs.cache
+C:\Users\eduardoalves\source\repos\TratamentoDeExcecoesExecicio02\TratamentoDeExcecoesExecicio02\obj\Debug\net6.0\TratamentoDeExcecoesExecicio02.AssemblyInfo.cs
+C:\Users\eduardoalves\source\repos\TratamentoDeExcecoesExecicio02\TratamentoDeExcecoesExecicio02\obj\Debug\net6.0\TratamentoDeExcecoesExecicio02.csproj.CoreCompileInputs.cache
+C:\Users\eduardoalves\source\repos\TratamentoDeExcecoesExecicio02\TratamentoDeExcecoesExecicio02\obj\Debug\net6.0\TratamentoDeExcecoesExecicio02.dll
+C:\Users\eduardoalves\source\repos\TratamentoDeExcecoesExecicio02\TratamentoDeExcecoesExecicio02\obj\Debug\net6.0\refint\TratamentoDeExcecoesExecicio02.dll
+C:\Users\eduardoalves\source\repos\TratamentoDeExcecoesExecicio02\TratamentoDeExcecoesExecicio02\obj\Debug\net6.0\TratamentoDeExcecoesExecicio02.pdb
+C:\Users\eduardoalves\source\repos\TratamentoDeExcecoesExecicio02\TratamentoDeExcecoesExecicio02\obj\Debug\net6.0\TratamentoDeExcecoesExecicio02.genruntimeconfig.cache
+C:\Users\eduardoalves\source\repos\TratamentoDeExcecoesExecicio02\TratamentoDeExcecoesExecicio02\obj\Debug\net6.0\ref\TratamentoDeExcecoesExecicio02.dll
